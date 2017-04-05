@@ -1,0 +1,7 @@
+git log - show commit history for current branch
+git checkout master - switch to master branch
+git branch -D develop newfeature - shows branches
+git push origin :develop :newfeature - transmit local to branch to remote repo
+git tag -d V0.1 - tags specific important points
+git reset --hard <last commit ID> - resets what was done
+git push -force - transmits branch out
