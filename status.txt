@@ -1,0 +1,10 @@
+* master:
+develop1.txt
+myinfo.txt
+README.md
+
+* develop:
+develop3.txt
+
+* newfeature:
+develop2.txt
