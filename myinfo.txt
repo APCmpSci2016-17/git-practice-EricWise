@@ -1,3 +1,7 @@
 Eric Wise Student of Spring Ford
 ScareTheater@gmail.com
+<<<<<<< HEAD
 Cooper
+=======
+Green
+>>>>>>> 0b22a632f42a24133e55100ee31c177b5b5505cf
